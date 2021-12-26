@@ -14,7 +14,7 @@ export const App = () => {
     return (
       <ChakraProvider theme={theme}>
         <Box textAlign="center" fontSize="xl">
-            <ColorModeSwitcher mb={5}/>
+            <ColorModeSwitcher my={5}/>
             <Container width="200">
                 <MemeList />
             </Container>
