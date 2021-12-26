@@ -1,0 +1,14 @@
+{
+    "memes": [
+        {
+            "title": "The Rock: Shut up Bitch",
+            "id": "shut-up-bitch",
+            "desc": "The Rock saying 'Shut up bitch'"
+        },
+        {
+            "title": "Oh my god, Ronny",
+            "id": "omg-ronny",
+            "desc": "The Oh my god, Ronny adlib"
+        }
+    ] 
+}
