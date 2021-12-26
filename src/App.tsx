@@ -14,12 +14,10 @@ export const App = () => {
     return (
       <ChakraProvider theme={theme}>
         <Box textAlign="center" fontSize="xl">
-            <Flex padding={10}>
-                <Container width="200">
-                    <MemeList />
-                </Container>
-                <ColorModeSwitcher/>
-          </Flex>
+            <ColorModeSwitcher mb={5}/>
+            <Container width="200">
+                <MemeList />
+            </Container>
         </Box>
       </ChakraProvider>
     );
