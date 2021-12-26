@@ -9,6 +9,11 @@
             "title": "Fuck ya life",
             "id": "fuck-ya-life",
             "desc": "Fuck ya life. Bing Bong."
+        },
+        {
+            "title": "Aye yo",
+            "id": "ayo",
+            "desc": "Take me out to dinner. Aye yo"
         }
     ] 
 }
